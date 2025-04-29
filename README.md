@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Olá! Eu sou Caique
 
-<!--
-**caiquevivas/caiquevivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 1º semestre. Estou começando minha jornada na área de tecnologia com foco em desenvolvimento web e soluções criativas. Gosto de aprender na prática e estou sempre explorando novas ideias para transformar em código.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que estou aprendendo:
+- **java**
+- Git e GitHub
+- Fundamentos de lógica de programação
+- Estrutura de dados básica
+
+---
+
+### 📫 Como me encontrar:
+- 📧 E-mail: caiquevivas3@gmail.com 
+- 💼 LinkedIn: Caique Vivas (https://www.linkedin.com/in/caique-vivas-643532335/)
+
+---
+
+📌 *Este perfil está em constante evolução à medida que aprendo e compartilho novos projetos. Fique à vontade para acompanhar!*
